@@ -1,13 +1,12 @@
 # Listview-With-Single-Item-Selection
-In this example we demonstrated How we can select single List item(Checkbox).
+In this example we demonstrated How we can select single List item(Radio Checkbox Example).
 
 Kindly click below for video
 
-Custom ListView Adapter
+[Custom ListView Adapter](https://www.youtube.com/watch?v=s4JwU28VMko)
 
 Please don't forgot to subscribe my youtube channel. Thank you. https://www.youtube.com/channel/UCA5HRmlkT7bqbO56EIlT0UQ
 
-![ScreenShot](https://raw.github.com/DharmbirChoudhary/CustomListAdapter/master/Screen Shot 2017-03-02 at 8.14.00 PM.png)
+![ScreenShot](https://raw.github.com/DharmbirChoudhary/CustomListAdapter/master/2017-03-18 12_10_16.gif)
 
 
-[2017-03-18 12_10_16.gif]
