@@ -7,6 +7,6 @@ Kindly click below for video
 
 Please don't forgot to subscribe my youtube channel. Thank you. https://www.youtube.com/channel/UCA5HRmlkT7bqbO56EIlT0UQ
 
-![ScreenShot](https://raw.github.com/DharmbirChoudhary/CustomListAdapter/master/2017-03-18 12_10_16.gif)
+![ScreenShot](examplescreenshot.gif)
 
 
