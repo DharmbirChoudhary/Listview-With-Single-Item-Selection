@@ -7,6 +7,6 @@ Kindly click below for video
 
 Please don't forgot to subscribe my youtube channel. Thank you. https://www.youtube.com/channel/UCA5HRmlkT7bqbO56EIlT0UQ
 
-![ScreenShot](examplescreenshot.gif)
+![ScreenShot](screenshotexample.gif)
 
 
