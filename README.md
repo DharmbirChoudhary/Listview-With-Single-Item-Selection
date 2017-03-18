@@ -3,7 +3,7 @@ In this example we demonstrated How we can select single List item(Radio Checkbo
 
 Kindly click below for video
 
-[Custom ListView Adapter](https://www.youtube.com/watch?v=s4JwU28VMko)
+[Listview With Single List Item Selection](https://www.youtube.com/watch?v=s4JwU28VMko)
 
 Please don't forgot to subscribe my youtube channel. Thank you. https://www.youtube.com/channel/UCA5HRmlkT7bqbO56EIlT0UQ
 
